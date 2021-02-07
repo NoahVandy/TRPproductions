@@ -1,0 +1,48 @@
+body {
+  background-color: #000;
+}
+
+.gradient {
+  background: linear-gradient(to right, #00cc00 0%, #006600 100%);
+}
+
+.page-footer a {
+  color: #fff;
+}
+
+p, h1, h2, h3, a {
+  color: #fff;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+}
+
+.josh-button {
+  border-color: #00cc00;
+  color: #00cc00;
+}
+
+.josh-button:hover {
+  color: #fff;
+  border-color: #00cc00;
+  background-color: #00cc00;
+}
+
+.special-skill-item .icon {
+  background-color: #00cc00;
+}
+
+.card {
+  background-color: #000;
+}
+
+.icon {
+  
+}
+
+.navbar {
+  padding-top: 0%;
+  padding-bottom: 10px;
+}
