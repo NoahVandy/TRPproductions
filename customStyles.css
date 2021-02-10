@@ -28,6 +28,12 @@ p, h1, h2, h3, a {
   color: #fff;
   border-color: #00cc00;
   background-color: #00cc00;
+  text-decoration: none;
+}
+
+.josh-button:hover a {
+  text-decoration: none;
+  color: #fff;
 }
 
 .special-skill-item .icon {
@@ -45,4 +51,20 @@ p, h1, h2, h3, a {
 .navbar {
   padding-top: 0%;
   padding-bottom: 10px;
+}
+
+.portfolio-block.block-intro p {
+  color: #8e8e8e;
+  font-size: 1.2rem;
+}
+
+.portfolio-block.block-intro h4 {
+  color: #fff;
+  font-weight: 100;
+}
+
+.portfolio-block .heading p {
+  color: #8e8e8e;
+  font-size: 1.2rem;
+  max-width: 100%;
 }
